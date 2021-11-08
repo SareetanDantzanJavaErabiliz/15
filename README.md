@@ -1,2 +1,2 @@
 # Sareetan zehar dantzan Java erabiliz: 15. kapituluko adibideak
-Hemen aurkezpen moduko testua
+Web-zerbitzuen kontzeptua ulertzea eta horrelakoak nola garatzen diren ikastea izango da hamabosgarren kapituluaren helburua. Sarean erabilgarri dauden aplikazioak garatzeko erabilitako lengoaiak askotarikoak direnez, batzuetan konplikatu samarra izan daiteke haien artean komunikazio egokia bermatzea. Arazo hori gainditzeko, web-zerbitzuen kontzeptua garatu da.
