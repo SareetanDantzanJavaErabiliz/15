@@ -3,5 +3,5 @@ Web-zerbitzuen kontzeptua ulertzea eta horrelakoak nola garatzen diren ikastea i
 
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 
-- WebZerbitzuak 1: . orr.
-- WebZerbitzuak 2: . orr.
+- WebZerbitzuak 1: 406. orr.
+- WebZerbitzuak 2: 407. orr.
